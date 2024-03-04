@@ -1,0 +1,27 @@
+2024-03-04T10:07:07.706+05:30  INFO 17928 --- [restartedMain] c.example.practise.PractiseApplication   : Starting PractiseApplication using Java 17.0.10 with PID 17928 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04T10:07:07.706+05:30 DEBUG 17928 --- [restartedMain] c.example.practise.PractiseApplication   : Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04T10:07:07.706+05:30  INFO 17928 --- [restartedMain] c.example.practise.PractiseApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-03-04T10:07:07.793+05:30  INFO 17928 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-03-04T10:07:07.793+05:30  INFO 17928 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 1 JPA repository interface.
+2024-03-04T10:07:07.834+05:30  INFO 17928 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-03-04T10:07:07.836+05:30  INFO 17928 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-04T10:07:07.836+05:30  INFO 17928 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-04T10:07:07.842+05:30  INFO 17928 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-04T10:07:07.849+05:30  INFO 17928 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 143 ms
+2024-03-04T10:07:07.865+05:30  INFO 17928 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-04T10:07:07.869+05:30  INFO 17928 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-03-04T10:07:07.872+05:30  INFO 17928 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-03-04T10:07:07.872+05:30  INFO 17928 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-38 - Starting...
+2024-03-04T10:07:07.882+05:30  INFO 17928 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-38 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6328819e
+2024-03-04T10:07:07.882+05:30  INFO 17928 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-38 - Start completed.
+2024-03-04T10:07:07.939+05:30  INFO 17928 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-04T10:07:07.943+05:30  INFO 17928 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-03-04T10:07:07.989+05:30  WARN 17928 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-04T10:07:08.036+05:30  INFO 17928 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-04T10:07:08.063+05:30  INFO 17928 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-03-04T10:07:08.063+05:30  INFO 17928 --- [restartedMain] c.example.practise.PractiseApplication   : Started PractiseApplication in 0.407 seconds (process running for 662.488)
+2024-03-04T10:07:08.063+05:30  INFO 17928 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-04T10:07:13.553+05:30  INFO 17928 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-04T10:07:13.563+05:30  INFO 17928 --- [Thread-151] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-03-04T10:07:13.572+05:30  INFO 17928 --- [Thread-151] com.zaxxer.hikari.HikariDataSource       : HikariPool-38 - Shutdown initiated...
+2024-03-04T10:07:13.578+05:30  INFO 17928 --- [Thread-151] com.zaxxer.hikari.HikariDataSource       : HikariPool-38 - Shutdown completed.

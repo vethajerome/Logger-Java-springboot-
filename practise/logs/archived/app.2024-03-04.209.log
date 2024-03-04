@@ -1,0 +1,70 @@
+2024-03-04 15:39:39,952 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:39:39,959 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:39:39,959 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:39:40,233 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:39:40,468 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.577 seconds (process running for 118.496)
+2024-03-04 15:39:52,185 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:39:52,185 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:39:52,185 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:39:52,443 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:39:52,739 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.602 seconds (process running for 130.766)
+2024-03-04 15:39:55,307 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:39:55,307 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:39:55,307 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:39:55,553 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:39:55,816 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.535 seconds (process running for 133.846)
+2024-03-04 15:41:35,043 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:41:35,044 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:41:35,044 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:41:35,286 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:41:35,505 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.495 seconds (process running for 233.531)
+2024-03-04 15:41:40,135 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:41:40,135 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:41:40,136 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:41:40,375 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:41:40,649 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.543 seconds (process running for 238.676)
+2024-03-04 15:41:44,222 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:41:44,222 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:41:44,223 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:41:44,438 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:41:44,510 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logcontroller' defined in file [C:\Users\malar\Desktop\practise\target\classes\com\example\practise\Logcontroller.class]: Failed to instantiate [com.example.practise.Logcontroller]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1317)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:959)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at com.example.practise.PractiseApplication.main(PractiseApplication.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.practise.Logcontroller]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:223)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1311)
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Unexpected end of comment
+
+	at com.example.practise.Logcontroller.<init>(Logcontroller.java:11)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:197)
+	... 24 common frames omitted

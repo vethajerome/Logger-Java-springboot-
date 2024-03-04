@@ -1,0 +1,10 @@
+2024-03-04 15:41:47,004 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:41:47,007 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:41:47,007 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:41:47,233 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:41:47,388 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.41 seconds (process running for 245.415)
+2024-03-04 15:41:57,087 INFO com.example.practise.PractiseApplication [restartedMain] Starting PractiseApplication using Java 17.0.10 with PID 22236 (C:\Users\malar\Desktop\practise\target\classes started by malar in C:\Users\malar\Desktop\practise)
+2024-03-04 15:41:57,087 DEBUG com.example.practise.PractiseApplication [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-03-04 15:41:57,088 INFO com.example.practise.PractiseApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-03-04 15:41:57,265 DEBUG com.example.practise.Filter.LoggingFilter [restartedMain] Filter 'loggingFilter' configured for use
+2024-03-04 15:41:57,419 INFO com.example.practise.PractiseApplication [restartedMain] Started PractiseApplication in 0.38 seconds (process running for 255.447)
